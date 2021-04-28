@@ -1,4 +1,4 @@
-### Console.WriteLine("Hello World! 👋")
+### Console.WriteLine("Hello World! 👋");
 
 #### While I am working with a large variety of technologies, my expertise is in Microsoft Stack. I love programming and I'm always open to new challenges.
 
