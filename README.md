@@ -1,6 +1,4 @@
-### Console.WriteLine("Hello World! 👋");
-
-#### While I am working with a large variety of technologies, my expertise is in Microsoft Stack. I love programming and I'm always open to new challenges.
+### While I am working with a large variety of technologies, my expertise is in Microsoft Stack. I love programming and I'm always open to new challenges.
 
 * 📫 How to reach me:
   * Email: [masoudk1990@yahoo.com](mailto:masoudk1990@yahoo.com)
