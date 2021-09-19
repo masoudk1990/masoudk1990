@@ -7,6 +7,8 @@
 
 ⚡ Did you know learning coding has remarkable cognitive-related benefits, such as problem-solving, computational thinking, analytical thinking, creative thinking, leadership-related skills, and even teamwork?
 
+![wrfyd6sxf6b9p609arjq](https://user-images.githubusercontent.com/33999631/133915453-43fa0fbd-d1a4-4915-a3c0-476300f02f4f.gif)
+
 <!--
 **masoudk1990/masoudk1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
