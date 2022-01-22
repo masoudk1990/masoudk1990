@@ -1,4 +1,4 @@
-### While I am working with a large variety of technologies, my expertise is in Microsoft Technology Stack. I love programming and I'm always open to new challenges.
+### I love programming and I'm always open to new challenges.
 
 * 📫 How to reach me:
   * Email: [masoudk1990@yahoo.com](mailto:masoudk1990@yahoo.com)
