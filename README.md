@@ -6,7 +6,6 @@
   * Stackoverflow: [https://stackoverflow.com/users/1573267/masoud-keshavarz](https://stackoverflow.com/users/1573267/masoud-keshavarz)
 
 <div>
-<img src="https://github.com/masoudk1990/github-stats/blob/master/generated/overview.svg">
 <img src="https://github.com/masoudk1990/github-stats/blob/master/generated/languages.svg">
 </div>
 
